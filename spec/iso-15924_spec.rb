@@ -1,6 +1,6 @@
-RSpec.describe Iso::15924 do
+RSpec.describe Iso15924 do
   it "has a version number" do
-    expect(Iso::15924::VERSION).not_to be nil
+    expect(Iso15924::VERSION).not_to be nil
   end
 
   it "does something useful" do

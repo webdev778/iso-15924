@@ -1,4 +1,4 @@
-# Iso::15924
+# Iso15924
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/iso/15924`. To experiment with that code, run `bin/console` for an interactive prompt.
 
@@ -41,4 +41,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Iso::15924 project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/iso-15924/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Iso15924 project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/iso-15924/blob/master/CODE_OF_CONDUCT.md).
