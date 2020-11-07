@@ -1,0 +1,1423 @@
+---
+Adlm:
+  numeric: 166
+  english: Adlam
+  french: adlam
+  pva: Adlam
+  age: 9.0
+  date: 2016-12-05
+Afak:
+  numeric: 439
+  english: Afaka
+  french: afaka
+  pva: 
+  age: 
+  date: 2010-12-21
+Aghb:
+  numeric: 239
+  english: Caucasian Albanian
+  french: aghbanien
+  pva: Caucasian_Albanian
+  age: 7.0
+  date: 2014-11-15
+Ahom:
+  numeric: 338
+  english: Ahom, Tai Ahom
+  french: âhom
+  pva: Ahom
+  age: 8.0
+  date: 2015-07-07
+Arab:
+  numeric: 160
+  english: Arabic
+  french: arabe
+  pva: Arabic
+  age: 1.1
+  date: 2004-05-01
+Aran:
+  numeric: 161
+  english: Arabic (Nastaliq variant)
+  french: arabe (variante nastalique)
+  pva: 
+  age: 1.1
+  date: 2014-11-15
+Armi:
+  numeric: 124
+  english: Imperial Aramaic
+  french: araméen impérial
+  pva: Imperial_Aramaic
+  age: 5.2
+  date: 2009-06-01
+Armn:
+  numeric: 230
+  english: Armenian
+  french: arménien
+  pva: Armenian
+  age: 1.1
+  date: 2004-05-01
+Avst:
+  numeric: 134
+  english: Avestan
+  french: avestique
+  pva: Avestan
+  age: 5.2
+  date: 2009-06-01
+Bali:
+  numeric: 360
+  english: Balinese
+  french: balinais
+  pva: Balinese
+  age: 5.0
+  date: 2006-10-10
+Bamu:
+  numeric: 435
+  english: Bamum
+  french: bamoum
+  pva: Bamum
+  age: 5.2
+  date: 2009-06-01
+Bass:
+  numeric: 259
+  english: Bassa Vah
+  french: bassa
+  pva: Bassa_Vah
+  age: 7.0
+  date: 2014-11-15
+Batk:
+  numeric: 365
+  english: Batak
+  french: batik
+  pva: Batak
+  age: 6.0
+  date: 2010-07-23
+Beng:
+  numeric: 325
+  english: Bengali (Bangla)
+  french: bengalî (bangla)
+  pva: Bengali
+  age: 1.1
+  date: 2016-12-05
+Bhks:
+  numeric: 334
+  english: Bhaiksuki
+  french: bhaïksukî
+  pva: Bhaiksuki
+  age: 9.0
+  date: 2016-12-05
+Blis:
+  numeric: 550
+  english: Blissymbols
+  french: symboles Bliss
+  pva: 
+  age: 
+  date: 2004-05-01
+Bopo:
+  numeric: 285
+  english: Bopomofo
+  french: bopomofo
+  pva: Bopomofo
+  age: 1.1
+  date: 2004-05-01
+Brah:
+  numeric: 300
+  english: Brahmi
+  french: brahma
+  pva: Brahmi
+  age: 6.0
+  date: 2010-07-23
+Brai:
+  numeric: 570
+  english: Braille
+  french: braille
+  pva: Braille
+  age: 3.0
+  date: 2004-05-01
+Bugi:
+  numeric: 367
+  english: Buginese
+  french: bouguis
+  pva: Buginese
+  age: 4.1
+  date: 2006-06-21
+Buhd:
+  numeric: 372
+  english: Buhid
+  french: bouhide
+  pva: Buhid
+  age: 3.2
+  date: 2004-05-01
+Cakm:
+  numeric: 349
+  english: Chakma
+  french: chakma
+  pva: Chakma
+  age: 6.1
+  date: 2012-02-06
+Cans:
+  numeric: 440
+  english: Unified Canadian Aboriginal Syllabics
+  french: syllabaire autochtone canadien unifié
+  pva: Canadian_Aboriginal
+  age: 3.0
+  date: 2004-05-29
+Cari:
+  numeric: 201
+  english: Carian
+  french: carien
+  pva: Carian
+  age: 5.1
+  date: 2007-07-02
+Cham:
+  numeric: 358
+  english: Cham
+  french: cham (čam, tcham)
+  pva: Cham
+  age: 5.1
+  date: 2009-11-11
+Cher:
+  numeric: 445
+  english: Cherokee
+  french: tchérokî
+  pva: Cherokee
+  age: 3.0
+  date: 2004-05-01
+Chrs:
+  numeric: 109
+  english: Chorasmian
+  french: chorasmien
+  pva: Chorasmian
+  age: 13.0
+  date: 2019-08-19
+Cirt:
+  numeric: 291
+  english: Cirth
+  french: cirth
+  pva: 
+  age: 
+  date: 2004-05-01
+Copt:
+  numeric: 204
+  english: Coptic
+  french: copte
+  pva: Coptic
+  age: 4.1
+  date: 2006-06-21
+Cpmn:
+  numeric: 402
+  english: Cypro-Minoan
+  french: syllabaire chypro-minoen
+  pva: 
+  age: 
+  date: 2017-07-26
+Cprt:
+  numeric: 403
+  english: Cypriot syllabary
+  french: syllabaire chypriote
+  pva: Cypriot
+  age: 4.0
+  date: 2017-07-26
+Cyrl:
+  numeric: 220
+  english: Cyrillic
+  french: cyrillique
+  pva: Cyrillic
+  age: 1.1
+  date: 2004-05-01
+Cyrs:
+  numeric: 221
+  english: Cyrillic (Old Church Slavonic variant)
+  french: cyrillique (variante slavonne)
+  pva: 
+  age: 1.1
+  date: 2004-05-01
+Deva:
+  numeric: 315
+  english: Devanagari (Nagari)
+  french: dévanâgarî
+  pva: Devanagari
+  age: 1.1
+  date: 2004-05-01
+Diak:
+  numeric: 342
+  english: Dives Akuru
+  french: dives akuru
+  pva: Dives_Akuru
+  age: 13.0
+  date: 2019-08-19
+Dogr:
+  numeric: 328
+  english: Dogra
+  french: dogra
+  pva: Dogra
+  age: 11.0
+  date: 2016-12-05
+Dsrt:
+  numeric: 250
+  english: Deseret (Mormon)
+  french: déseret (mormon)
+  pva: Deseret
+  age: 3.1
+  date: 2004-05-01
+Dupl:
+  numeric: 755
+  english: Duployan shorthand, Duployan stenography
+  french: sténographie Duployé
+  pva: Duployan
+  age: 7.0
+  date: 2014-11-15
+Egyd:
+  numeric: 56
+  english: Egyptian demotic
+  french: démotique égyptien
+  pva: 
+  age: 
+  date: 2004-05-01
+Egyh:
+  numeric: 48
+  english: Egyptian hieratic
+  french: hiératique égyptien
+  pva: 
+  age: 5.2
+  date: 2004-05-01
+Egyp:
+  numeric: 40
+  english: Egyptian hieroglyphs
+  french: hiéroglyphes égyptiens
+  pva: Egyptian_Hieroglyphs
+  age: 5.2
+  date: 2009-06-01
+Elba:
+  numeric: 226
+  english: Elbasan
+  french: elbasan
+  pva: Elbasan
+  age: 7.0
+  date: 2014-11-15
+Elym:
+  numeric: 128
+  english: Elymaic
+  french: élymaïque
+  pva: Elymaic
+  age: 12.0
+  date: 2018-08-26
+Ethi:
+  numeric: 430
+  english: Ethiopic (Geʻez)
+  french: éthiopien (geʻez, guèze)
+  pva: Ethiopic
+  age: 3.0
+  date: 2004-10-25
+Geok:
+  numeric: 241
+  english: Khutsuri (Asomtavruli and Nuskhuri)
+  french: khoutsouri (assomtavrouli et nouskhouri)
+  pva: Georgian
+  age: 1.1
+  date: 2012-10-16
+Geor:
+  numeric: 240
+  english: Georgian (Mkhedruli and Mtavruli)
+  french: géorgien (mkhédrouli et mtavrouli)
+  pva: Georgian
+  age: 1.1
+  date: 2016-12-05
+Glag:
+  numeric: 225
+  english: Glagolitic
+  french: glagolitique
+  pva: Glagolitic
+  age: 4.1
+  date: 2006-06-21
+Gong:
+  numeric: 312
+  english: Gunjala Gondi
+  french: gunjala gondî
+  pva: Gunjala_Gondi
+  age: 11.0
+  date: 2016-12-05
+Gonm:
+  numeric: 313
+  english: Masaram Gondi
+  french: masaram gondî
+  pva: Masaram_Gondi
+  age: 10.0
+  date: 2017-07-26
+Goth:
+  numeric: 206
+  english: Gothic
+  french: gotique
+  pva: Gothic
+  age: 3.1
+  date: 2004-05-01
+Gran:
+  numeric: 343
+  english: Grantha
+  french: grantha
+  pva: Grantha
+  age: 7.0
+  date: 2014-11-15
+Grek:
+  numeric: 200
+  english: Greek
+  french: grec
+  pva: Greek
+  age: 1.1
+  date: 2004-05-01
+Gujr:
+  numeric: 320
+  english: Gujarati
+  french: goudjarâtî (gujrâtî)
+  pva: Gujarati
+  age: 1.1
+  date: 2004-05-01
+Guru:
+  numeric: 310
+  english: Gurmukhi
+  french: gourmoukhî
+  pva: Gurmukhi
+  age: 1.1
+  date: 2004-05-01
+Hanb:
+  numeric: 503
+  english: Han with Bopomofo (alias for Han + Bopomofo)
+  french: han avec bopomofo (alias pour han + bopomofo)
+  pva: 
+  age: 1.1
+  date: 2016-01-19
+Hang:
+  numeric: 286
+  english: Hangul (Hangŭl, Hangeul)
+  french: hangûl (hangŭl, hangeul)
+  pva: Hangul
+  age: 1.1
+  date: 2004-05-29
+Hani:
+  numeric: 500
+  english: Han (Hanzi, Kanji, Hanja)
+  french: idéogrammes han (sinogrammes)
+  pva: Han
+  age: 1.1
+  date: 2009-02-23
+Hano:
+  numeric: 371
+  english: Hanunoo (Hanunóo)
+  french: hanounóo
+  pva: Hanunoo
+  age: 3.2
+  date: 2004-05-29
+Hans:
+  numeric: 501
+  english: Han (Simplified variant)
+  french: idéogrammes han (variante simplifiée)
+  pva: 
+  age: 1.1
+  date: 2004-05-29
+Hant:
+  numeric: 502
+  english: Han (Traditional variant)
+  french: idéogrammes han (variante traditionnelle)
+  pva: 
+  age: 1.1
+  date: 2004-05-29
+Hatr:
+  numeric: 127
+  english: Hatran
+  french: hatrénien
+  pva: Hatran
+  age: 8.0
+  date: 2015-07-07
+Hebr:
+  numeric: 125
+  english: Hebrew
+  french: hébreu
+  pva: Hebrew
+  age: 1.1
+  date: 2004-05-01
+Hira:
+  numeric: 410
+  english: Hiragana
+  french: hiragana
+  pva: Hiragana
+  age: 1.1
+  date: 2004-05-01
+Hluw:
+  numeric: 80.0
+  english: Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)
+  french: hiéroglyphes anatoliens (hiéroglyphes louvites, hiéroglyphes hittites)
+  pva: Anatolian_Hieroglyphs
+  age: 8.0
+  date: 2015-07-07
+Hmng:
+  numeric: 450
+  english: Pahawh Hmong
+  french: pahawh hmong
+  pva: Pahawh_Hmong
+  age: 7.0
+  date: 2014-11-15
+Hmnp:
+  numeric: 451
+  english: Nyiakeng Puachue Hmong
+  french: nyiakeng puachue hmong
+  pva: Nyiakeng_Puachue_Hmong
+  age: 12.0
+  date: 2017-07-26
+Hrkt:
+  numeric: 412
+  english: Japanese syllabaries (alias for Hiragana + Katakana)
+  french: syllabaires japonais (alias pour hiragana + katakana)
+  pva: Katakana_Or_Hiragana
+  age: 1.1
+  date: 2011-06-21
+Hung:
+  numeric: 176
+  english: Old Hungarian (Hungarian Runic)
+  french: runes hongroises (ancien hongrois)
+  pva: Old_Hungarian
+  age: 8.0
+  date: 2015-07-07
+Inds:
+  numeric: 610
+  english: Indus (Harappan)
+  french: indus
+  pva: 
+  age: 
+  date: 2004-05-01
+Ital:
+  numeric: 210
+  english: Old Italic (Etruscan, Oscan, etc.)
+  french: ancien italique (étrusque, osque, etc.)
+  pva: Old_Italic
+  age: 3.1
+  date: 2004-05-29
+Jamo:
+  numeric: 284
+  english: Jamo (alias for Jamo subset of Hangul)
+  french: jamo (alias pour le sous-ensemble jamo du hangûl)
+  pva: 
+  age: 1.1
+  date: 2016-01-19
+Java:
+  numeric: 361
+  english: Javanese
+  french: javanais
+  pva: Javanese
+  age: 5.2
+  date: 2009-06-01
+Jpan:
+  numeric: 413
+  english: Japanese (alias for Han + Hiragana + Katakana)
+  french: japonais (alias pour han + hiragana + katakana)
+  pva: 
+  age: 1.1
+  date: 2006-06-21
+Jurc:
+  numeric: 510
+  english: Jurchen
+  french: jurchen
+  pva: 
+  age: 
+  date: 2010-12-21
+Kali:
+  numeric: 357
+  english: Kayah Li
+  french: kayah li
+  pva: Kayah_Li
+  age: 5.1
+  date: 2007-07-02
+Kana:
+  numeric: 411
+  english: Katakana
+  french: katakana
+  pva: Katakana
+  age: 1.1
+  date: 2004-05-01
+Khar:
+  numeric: 305
+  english: Kharoshthi
+  french: kharochthî
+  pva: Kharoshthi
+  age: 4.1
+  date: 2006-06-21
+Khmr:
+  numeric: 355
+  english: Khmer
+  french: khmer
+  pva: Khmer
+  age: 3.0
+  date: 2004-05-29
+Khoj:
+  numeric: 322
+  english: Khojki
+  french: khojkî
+  pva: Khojki
+  age: 7.0
+  date: 2014-11-15
+Kitl:
+  numeric: 505
+  english: Khitan large script
+  french: grande écriture khitan
+  pva: 
+  age: 
+  date: 2015-07-15
+Kits:
+  numeric: 288
+  english: Khitan small script
+  french: petite écriture khitan
+  pva: Khitan_Small_Script
+  age: 13.0
+  date: 2015-07-15
+Knda:
+  numeric: 345
+  english: Kannada
+  french: kannara (canara)
+  pva: Kannada
+  age: 1.1
+  date: 2004-05-29
+Kore:
+  numeric: 287
+  english: Korean (alias for Hangul + Han)
+  french: coréen (alias pour hangûl + han)
+  pva: 
+  age: 1.1
+  date: 2007-06-13
+Kpel:
+  numeric: 436
+  english: Kpelle
+  french: kpèllé
+  pva: 
+  age: 
+  date: 2010-03-26
+Kthi:
+  numeric: 317
+  english: Kaithi
+  french: kaithî
+  pva: Kaithi
+  age: 5.2
+  date: 2009-06-01
+Lana:
+  numeric: 351
+  english: Tai Tham (Lanna)
+  french: taï tham (lanna)
+  pva: Tai_Tham
+  age: 5.2
+  date: 2009-06-01
+Laoo:
+  numeric: 356
+  english: Lao
+  french: laotien
+  pva: Lao
+  age: 1.1
+  date: 2004-05-01
+Latf:
+  numeric: 217
+  english: Latin (Fraktur variant)
+  french: latin (variante brisée)
+  pva: 
+  age: 1.1
+  date: 2004-05-01
+Latg:
+  numeric: 216
+  english: Latin (Gaelic variant)
+  french: latin (variante gaélique)
+  pva: 
+  age: 1.1
+  date: 2004-05-01
+Latn:
+  numeric: 215
+  english: Latin
+  french: latin
+  pva: Latin
+  age: 1.1
+  date: 2004-05-01
+Leke:
+  numeric: 364
+  english: Leke
+  french: léké
+  pva: 
+  age: 
+  date: 2015-07-07
+Lepc:
+  numeric: 335
+  english: Lepcha (Róng)
+  french: lepcha (róng)
+  pva: Lepcha
+  age: 5.1
+  date: 2007-07-02
+Limb:
+  numeric: 336
+  english: Limbu
+  french: limbou
+  pva: Limbu
+  age: 4.0
+  date: 2004-05-29
+Lina:
+  numeric: 400
+  english: Linear A
+  french: linéaire A
+  pva: Linear_A
+  age: 7.0
+  date: 2014-11-15
+Linb:
+  numeric: 401
+  english: Linear B
+  french: linéaire B
+  pva: Linear_B
+  age: 4.0
+  date: 2004-05-29
+Lisu:
+  numeric: 399
+  english: Lisu (Fraser)
+  french: lisu (Fraser)
+  pva: Lisu
+  age: 5.2
+  date: 2009-06-01
+Loma:
+  numeric: 437
+  english: Loma
+  french: loma
+  pva: 
+  age: 
+  date: 2010-03-26
+Lyci:
+  numeric: 202
+  english: Lycian
+  french: lycien
+  pva: Lycian
+  age: 5.1
+  date: 2007-07-02
+Lydi:
+  numeric: 116
+  english: Lydian
+  french: lydien
+  pva: Lydian
+  age: 5.1
+  date: 2007-07-02
+Mahj:
+  numeric: 314
+  english: Mahajani
+  french: mahâjanî
+  pva: Mahajani
+  age: 7.0
+  date: 2014-11-15
+Maka:
+  numeric: 366
+  english: Makasar
+  french: makassar
+  pva: Makasar
+  age: 11.0
+  date: 2016-12-05
+Mand:
+  numeric: 140
+  english: Mandaic, Mandaean
+  french: mandéen
+  pva: Mandaic
+  age: 6.0
+  date: 2010-07-23
+Mani:
+  numeric: 139
+  english: Manichaean
+  french: manichéen
+  pva: Manichaean
+  age: 7.0
+  date: 2014-11-15
+Marc:
+  numeric: 332
+  english: Marchen
+  french: marchen
+  pva: Marchen
+  age: 9.0
+  date: 2016-12-05
+Maya:
+  numeric: 90.0
+  english: Mayan hieroglyphs
+  french: hiéroglyphes mayas
+  pva: 
+  age: 
+  date: 2004-05-01
+Medf:
+  numeric: 265
+  english: Medefaidrin (Oberi Okaime, Oberi Ɔkaimɛ)
+  french: médéfaïdrine
+  pva: Medefaidrin
+  age: 11.0
+  date: 2016-12-05
+Mend:
+  numeric: 438
+  english: Mende Kikakui
+  french: mendé kikakui
+  pva: Mende_Kikakui
+  age: 7.0
+  date: 2014-11-15
+Merc:
+  numeric: 101
+  english: Meroitic Cursive
+  french: cursif méroïtique
+  pva: Meroitic_Cursive
+  age: 6.1
+  date: 2012-02-06
+Mero:
+  numeric: 100
+  english: Meroitic Hieroglyphs
+  french: hiéroglyphes méroïtiques
+  pva: Meroitic_Hieroglyphs
+  age: 6.1
+  date: 2012-02-06
+Mlym:
+  numeric: 347
+  english: Malayalam
+  french: malayâlam
+  pva: Malayalam
+  age: 1.1
+  date: 2004-05-01
+Modi:
+  numeric: 324
+  english: Modi, Moḍī
+  french: modî
+  pva: Modi
+  age: 7.0
+  date: 2014-11-15
+Mong:
+  numeric: 145
+  english: Mongolian
+  french: mongol
+  pva: Mongolian
+  age: 3.0
+  date: 2004-05-01
+Moon:
+  numeric: 218
+  english: Moon (Moon code, Moon script, Moon type)
+  french: écriture Moon
+  pva: 
+  age: 
+  date: 2006-12-11
+Mroo:
+  numeric: 264
+  english: Mro, Mru
+  french: mro
+  pva: Mro
+  age: 7.0
+  date: 2016-12-05
+Mtei:
+  numeric: 337
+  english: Meitei Mayek (Meithei, Meetei)
+  french: meitei mayek
+  pva: Meetei_Mayek
+  age: 5.2
+  date: 2009-06-01
+Mult:
+  numeric: 323
+  english: Multani
+  french: multanî
+  pva: Multani
+  age: 8.0
+  date: 2015-07-07
+Mymr:
+  numeric: 350
+  english: Myanmar (Burmese)
+  french: birman
+  pva: Myanmar
+  age: 3.0
+  date: 2004-05-01
+Nand:
+  numeric: 311
+  english: Nandinagari
+  french: nandinâgarî
+  pva: Nandinagari
+  age: 12.0
+  date: 2018-08-26
+Narb:
+  numeric: 106
+  english: Old North Arabian (Ancient North Arabian)
+  french: nord-arabique
+  pva: Old_North_Arabian
+  age: 7.0
+  date: 2014-11-15
+Nbat:
+  numeric: 159
+  english: Nabataean
+  french: nabatéen
+  pva: Nabataean
+  age: 7.0
+  date: 2014-11-15
+Newa:
+  numeric: 333
+  english: Newa, Newar, Newari, Nepāla lipi
+  french: néwa, néwar, néwari, nepāla lipi
+  pva: Newa
+  age: 9.0
+  date: 2016-12-05
+Nkdb:
+  numeric: 85.0
+  english: Naxi Dongba (na²¹ɕi³³ to³³ba²¹, Nakhi Tomba)
+  french: naxi dongba
+  pva: 
+  age: 
+  date: 2017-07-26
+Nkgb:
+  numeric: 420
+  english: Naxi Geba (na²¹ɕi³³ gʌ²¹ba²¹, 'Na-'Khi ²Ggŏ-¹baw, Nakhi Geba)
+  french: naxi geba, nakhi geba
+  pva: 
+  age: 
+  date: 2017-07-26
+Nkoo:
+  numeric: 165
+  english: N’Ko
+  french: n’ko
+  pva: Nko
+  age: 5.0
+  date: 2006-10-10
+Nshu:
+  numeric: 499
+  english: Nüshu
+  french: nüshu
+  pva: Nushu
+  age: 10.0
+  date: 2017-07-26
+Ogam:
+  numeric: 212
+  english: Ogham
+  french: ogam
+  pva: Ogham
+  age: 3.0
+  date: 2004-05-01
+Olck:
+  numeric: 261
+  english: Ol Chiki (Ol Cemet’, Ol, Santali)
+  french: ol tchiki
+  pva: Ol_Chiki
+  age: 5.1
+  date: 2007-07-02
+Orkh:
+  numeric: 175
+  english: Old Turkic, Orkhon Runic
+  french: orkhon
+  pva: Old_Turkic
+  age: 5.2
+  date: 2009-06-01
+Orya:
+  numeric: 327
+  english: Oriya (Odia)
+  french: oriyâ (odia)
+  pva: Oriya
+  age: 1.1
+  date: 2016-12-05
+Osge:
+  numeric: 219
+  english: Osage
+  french: osage
+  pva: Osage
+  age: 9.0
+  date: 2016-12-05
+Osma:
+  numeric: 260
+  english: Osmanya
+  french: osmanais
+  pva: Osmanya
+  age: 4.0
+  date: 2004-05-01
+Palm:
+  numeric: 126
+  english: Palmyrene
+  french: palmyrénien
+  pva: Palmyrene
+  age: 7.0
+  date: 2014-11-15
+Pauc:
+  numeric: 263
+  english: Pau Cin Hau
+  french: paou chin haou
+  pva: Pau_Cin_Hau
+  age: 7.0
+  date: 2014-11-15
+Perm:
+  numeric: 227
+  english: Old Permic
+  french: ancien permien
+  pva: Old_Permic
+  age: 7.0
+  date: 2014-11-15
+Phag:
+  numeric: 331
+  english: Phags-pa
+  french: "’phags pa"
+  pva: Phags_Pa
+  age: 5.0
+  date: 2006-10-10
+Phli:
+  numeric: 131
+  english: Inscriptional Pahlavi
+  french: pehlevi des inscriptions
+  pva: Inscriptional_Pahlavi
+  age: 5.2
+  date: 2009-06-01
+Phlp:
+  numeric: 132
+  english: Psalter Pahlavi
+  french: pehlevi des psautiers
+  pva: Psalter_Pahlavi
+  age: 7.0
+  date: 2014-11-15
+Phlv:
+  numeric: 133
+  english: Book Pahlavi
+  french: pehlevi des livres
+  pva: 
+  age: 
+  date: 2007-07-15
+Phnx:
+  numeric: 115
+  english: Phoenician
+  french: phénicien
+  pva: Phoenician
+  age: 5.0
+  date: 2006-10-10
+Plrd:
+  numeric: 282
+  english: Miao (Pollard)
+  french: miao (Pollard)
+  pva: Miao
+  age: 6.1
+  date: 2012-02-06
+Piqd:
+  numeric: 293
+  english: Klingon (KLI pIqaD)
+  french: klingon (pIqaD du KLI)
+  pva: 
+  age: 
+  date: 2015-12-16
+Prti:
+  numeric: 130
+  english: Inscriptional Parthian
+  french: parthe des inscriptions
+  pva: Inscriptional_Parthian
+  age: 5.2
+  date: 2009-06-01
+Qaaa:
+  numeric: 900
+  english: Reserved for private use (start)
+  french: réservé à l’usage privé (début)
+  pva: 
+  age: 
+  date: 2004-05-29
+Qabx:
+  numeric: 949
+  english: Reserved for private use (end)
+  french: réservé à l’usage privé (fin)
+  pva: 
+  age: 
+  date: 2004-05-29
+Rjng:
+  numeric: 363
+  english: Rejang (Redjang, Kaganga)
+  french: redjang (kaganga)
+  pva: Rejang
+  age: 5.1
+  date: 2009-02-23
+Rohg:
+  numeric: 167
+  english: Hanifi Rohingya
+  french: hanifi rohingya
+  pva: Hanifi_Rohingya
+  age: 11.0
+  date: 2017-11-21
+Roro:
+  numeric: 620
+  english: Rongorongo
+  french: rongorongo
+  pva: 
+  age: 
+  date: 2004-05-01
+Runr:
+  numeric: 211
+  english: Runic
+  french: runique
+  pva: Runic
+  age: 3.0
+  date: 2004-05-01
+Samr:
+  numeric: 123
+  english: Samaritan
+  french: samaritain
+  pva: Samaritan
+  age: 5.2
+  date: 2009-06-01
+Sara:
+  numeric: 292
+  english: Sarati
+  french: sarati
+  pva: 
+  age: 
+  date: 2004-05-29
+Sarb:
+  numeric: 105
+  english: Old South Arabian
+  french: sud-arabique, himyarite
+  pva: Old_South_Arabian
+  age: 5.2
+  date: 2009-06-01
+Saur:
+  numeric: 344
+  english: Saurashtra
+  french: saurachtra
+  pva: Saurashtra
+  age: 5.1
+  date: 2007-07-02
+Sgnw:
+  numeric: 95.0
+  english: SignWriting
+  french: SignÉcriture, SignWriting
+  pva: SignWriting
+  age: 8.0
+  date: 2015-07-07
+Shaw:
+  numeric: 281
+  english: Shavian (Shaw)
+  french: shavien (Shaw)
+  pva: Shavian
+  age: 4.0
+  date: 2004-05-01
+Shrd:
+  numeric: 319
+  english: Sharada, Śāradā
+  french: charada, shard
+  pva: Sharada
+  age: 6.1
+  date: 2012-02-06
+Shui:
+  numeric: 530
+  english: Shuishu
+  french: shuishu
+  pva: 
+  age: 
+  date: 2017-07-26
+Sidd:
+  numeric: 302
+  english: Siddham, Siddhaṃ, Siddhamātṛkā
+  french: siddham
+  pva: Siddham
+  age: 7.0
+  date: 2014-11-15
+Sind:
+  numeric: 318
+  english: Khudawadi, Sindhi
+  french: khoudawadî, sindhî
+  pva: Khudawadi
+  age: 7.0
+  date: 2014-11-15
+Sinh:
+  numeric: 348
+  english: Sinhala
+  french: singhalais
+  pva: Sinhala
+  age: 3.0
+  date: 2004-05-01
+Sogd:
+  numeric: 141
+  english: Sogdian
+  french: sogdien
+  pva: Sogdian
+  age: 11.0
+  date: 2017-11-21
+Sogo:
+  numeric: 142
+  english: Old Sogdian
+  french: ancien sogdien
+  pva: Old_Sogdian
+  age: 11.0
+  date: 2017-11-21
+Sora:
+  numeric: 398
+  english: Sora Sompeng
+  french: sora sompeng
+  pva: Sora_Sompeng
+  age: 6.1
+  date: 2012-02-06
+Soyo:
+  numeric: 329
+  english: Soyombo
+  french: soyombo
+  pva: Soyombo
+  age: 10.0
+  date: 2017-07-26
+Sund:
+  numeric: 362
+  english: Sundanese
+  french: sundanais
+  pva: Sundanese
+  age: 5.1
+  date: 2007-07-02
+Sylo:
+  numeric: 316
+  english: Syloti Nagri
+  french: sylotî nâgrî
+  pva: Syloti_Nagri
+  age: 4.1
+  date: 2006-06-21
+Syrc:
+  numeric: 135
+  english: Syriac
+  french: syriaque
+  pva: Syriac
+  age: 3.0
+  date: 2004-05-01
+Syre:
+  numeric: 138
+  english: Syriac (Estrangelo variant)
+  french: syriaque (variante estranghélo)
+  pva: 
+  age: 3.0
+  date: 2004-05-01
+Syrj:
+  numeric: 137
+  english: Syriac (Western variant)
+  french: syriaque (variante occidentale)
+  pva: 
+  age: 3.0
+  date: 2004-05-01
+Syrn:
+  numeric: 136
+  english: Syriac (Eastern variant)
+  french: syriaque (variante orientale)
+  pva: 
+  age: 3.0
+  date: 2004-05-01
+Tagb:
+  numeric: 373
+  english: Tagbanwa
+  french: tagbanoua
+  pva: Tagbanwa
+  age: 3.2
+  date: 2004-05-01
+Takr:
+  numeric: 321
+  english: Takri, Ṭākrī, Ṭāṅkrī
+  french: tâkrî
+  pva: Takri
+  age: 6.1
+  date: 2012-02-06
+Tale:
+  numeric: 353
+  english: Tai Le
+  french: taï-le
+  pva: Tai_Le
+  age: 4.0
+  date: 2004-10-25
+Talu:
+  numeric: 354
+  english: New Tai Lue
+  french: nouveau taï-lue
+  pva: New_Tai_Lue
+  age: 4.1
+  date: 2006-06-21
+Taml:
+  numeric: 346
+  english: Tamil
+  french: tamoul
+  pva: Tamil
+  age: 1.1
+  date: 2004-05-01
+Tang:
+  numeric: 520
+  english: Tangut
+  french: tangoute
+  pva: Tangut
+  age: 9.0
+  date: 2016-12-05
+Tavt:
+  numeric: 359
+  english: Tai Viet
+  french: taï viêt
+  pva: Tai_Viet
+  age: 5.2
+  date: 2009-06-01
+Telu:
+  numeric: 340
+  english: Telugu
+  french: télougou
+  pva: Telugu
+  age: 1.1
+  date: 2004-05-01
+Teng:
+  numeric: 290
+  english: Tengwar
+  french: tengwar
+  pva: 
+  age: 
+  date: 2004-05-01
+Tfng:
+  numeric: 120
+  english: Tifinagh (Berber)
+  french: tifinagh (berbère)
+  pva: Tifinagh
+  age: 4.1
+  date: 2006-06-21
+Tglg:
+  numeric: 370
+  english: Tagalog (Baybayin, Alibata)
+  french: tagal (baybayin, alibata)
+  pva: Tagalog
+  age: 3.2
+  date: 2009-02-23
+Thaa:
+  numeric: 170
+  english: Thaana
+  french: thâna
+  pva: Thaana
+  age: 3.0
+  date: 2004-05-01
+Thai:
+  numeric: 352
+  english: Thai
+  french: thaï
+  pva: Thai
+  age: 1.1
+  date: 2004-05-01
+Tibt:
+  numeric: 330
+  english: Tibetan
+  french: tibétain
+  pva: Tibetan
+  age: 2.0
+  date: 2004-05-01
+Tirh:
+  numeric: 326
+  english: Tirhuta
+  french: tirhouta
+  pva: Tirhuta
+  age: 7.0
+  date: 2014-11-15
+Toto:
+  numeric: 294
+  english: Toto
+  french: toto
+  pva: 
+  age: 
+  date: 2020-04-16
+Ugar:
+  numeric: 32
+  english: Ugaritic
+  french: ougaritique
+  pva: Ugaritic
+  age: 4.0
+  date: 2004-05-01
+Vaii:
+  numeric: 470
+  english: Vai
+  french: vaï
+  pva: Vai
+  age: 5.1
+  date: 2007-07-02
+Visp:
+  numeric: 280
+  english: Visible Speech
+  french: parole visible
+  pva: 
+  age: 
+  date: 2004-05-01
+Wara:
+  numeric: 262
+  english: Warang Citi (Varang Kshiti)
+  french: warang citi
+  pva: Warang_Citi
+  age: 7.0
+  date: 2014-11-15
+Wcho:
+  numeric: 283
+  english: Wancho
+  french: wantcho
+  pva: Wancho
+  age: 12.0
+  date: 2017-07-26
+Wole:
+  numeric: 480
+  english: Woleai
+  french: woléaï
+  pva: 
+  age: 
+  date: 2010-12-21
+Xpeo:
+  numeric: 24
+  english: Old Persian
+  french: cunéiforme persépolitain
+  pva: Old_Persian
+  age: 4.1
+  date: 2006-06-21
+Xsux:
+  numeric: 16
+  english: Cuneiform, Sumero-Akkadian
+  french: cunéiforme suméro-akkadien
+  pva: Cuneiform
+  age: 5.0
+  date: 2006-10-10
+Yezi:
+  numeric: 192
+  english: Yezidi
+  french: yézidi
+  pva: Yezidi
+  age: 13.0
+  date: 2019-08-19
+Yiii:
+  numeric: 460
+  english: Yi
+  french: yi
+  pva: Yi
+  age: 3.0
+  date: 2004-05-01
+Zanb:
+  numeric: 339
+  english: Zanabazar Square (Zanabazarin Dörböljin Useg, Xewtee Dörböljin Bicig, Horizontal
+    Square Script)
+  french: zanabazar quadratique
+  pva: Zanabazar_Square
+  age: 10.0
+  date: 2017-07-26
+Zinh:
+  numeric: 994
+  english: Code for inherited script
+  french: codet pour écriture héritée
+  pva: Inherited
+  age: 
+  date: 2009-02-23
+Zmth:
+  numeric: 995
+  english: Mathematical notation
+  french: notation mathématique
+  pva: 
+  age: 3.2
+  date: 2007-11-26
+Zsye:
+  numeric: 993
+  english: Symbols (Emoji variant)
+  french: symboles (variante émoji)
+  pva: 
+  age: 6.0
+  date: 2015-12-16
+Zsym:
+  numeric: 996
+  english: Symbols
+  french: symboles
+  pva: 
+  age: 1.1
+  date: 2007-11-26
+Zxxx:
+  numeric: 997
+  english: Code for unwritten documents
+  french: codet pour les documents non écrits
+  pva: 
+  age: 
+  date: 2011-06-21
+Zyyy:
+  numeric: 998
+  english: Code for undetermined script
+  french: codet pour écriture indéterminée
+  pva: Common
+  age: 
+  date: 2004-05-29
+Zzzz:
+  numeric: 999
+  english: Code for uncoded script
+  french: codet pour écriture non codée
+  pva: Unknown
+  age: 
+  date: 2006-10-10

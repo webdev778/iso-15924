@@ -1,0 +1,36 @@
+PATH
+  remote: .
+  specs:
+    iso-15924 (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    diff-lcs (1.4.4)
+    rake (12.3.3)
+    rspec (3.10.0)
+      rspec-core (~> 3.10.0)
+      rspec-expectations (~> 3.10.0)
+      rspec-mocks (~> 3.10.0)
+    rspec-core (3.10.0)
+      rspec-support (~> 3.10.0)
+    rspec-expectations (3.10.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.10.0)
+    rspec-mocks (3.10.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.10.0)
+    rspec-support (3.10.0)
+    rubyzip (2.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  iso-15924!
+  rake (~> 12.0)
+  rspec (~> 3.0)
+  rubyzip (~> 2.3)
+
+BUNDLED WITH
+   2.1.2
