@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    iso-15924 (0.1.0)
+    iso-15924 (0.1.1)
 
 GEM
   remote: https://rubygems.org/
