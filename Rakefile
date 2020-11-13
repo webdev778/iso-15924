@@ -52,16 +52,10 @@ end
 
 desc 'Check if any updates on RA'
 task :cron_job => [:clean, ISO_15924_FILE] do
-  require 'git'
-  has_changed = false
-  g = Git.open(ROOT_PATH)
-  g.status.changed.each do |f|
-    if f[0] =~ /#{ISO_15924_FILE}/
-      has_changed = true
-    end
-  end
-  puts 'iso 15924 file on RA has been updated' if has_changed
-  exit(1) if has_changed
+  str = `git diff iso_15924.txt`
+  updated = !str.empty?
+  puts 'iso 15924 file on RA has been updated' if updated
+  exit(1) if updated
 end
 
 task :default => :spec
