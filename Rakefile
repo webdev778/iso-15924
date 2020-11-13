@@ -51,7 +51,7 @@ task :iso => [:clean, ISO_15924_FILE] do
 end
 
 desc 'Check if any updates on RA'
-task :cron_job do #=> [:clean, ISO_15924_FILE]
+task :cron_job => [:clean, ISO_15924_FILE] do
   require 'git'
   has_changed = false
   g = Git.open(ROOT_PATH)
