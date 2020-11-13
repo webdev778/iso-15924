@@ -53,6 +53,7 @@ end
 desc 'Check if any updates on RA'
 task :cron_job => [:clean, ISO_15924_FILE] do
   str = `git diff iso_15924.txt`
+  puts str
   updated = !str.empty?
   puts 'iso 15924 file on RA has been updated' if updated
   exit(1) if updated
