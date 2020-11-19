@@ -70,7 +70,7 @@ task :bump do
   sh 'git config user.name "isodata-bot"'
   sh 'git add .'
   sh 'git commit -m "synced iso data with RA"' do |ok, res|
-    sh 'gem bump -v patch -p -t' if ok
+    sh 'gem bump -v patch -p -t -r' if ok
   end
 end
 
