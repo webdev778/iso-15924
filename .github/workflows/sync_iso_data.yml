@@ -17,5 +17,7 @@ jobs:
         ruby-version: 2.6
     - name: Install dependencies
       run: bundle install
+    - name: Install gem-release
+      run: gem install gem-release
     - name: Run cron_job
-      run: bundle exec rake cron_job
+      run: bundle exec rake sync_ra

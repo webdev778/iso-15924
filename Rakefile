@@ -51,12 +51,23 @@ task :iso => [:clean, ISO_15924_FILE] do
 end
 
 desc 'Check if any updates on RA'
-task :cron_job => [:clean, ISO_15924_FILE] do
+task :sync_ra => [:iso] do
   str = `git diff iso_15924.txt`
   puts str
   updated = !str.empty?
-  puts 'iso 15924 file on RA has been updated' if updated
-  exit(1) if updated
+  if updated
+    puts 'iso 15924 file on RA has been updated'
+    Rake::Tasks[:bump].execute
+  else
+    puts 'no updates from RA'
+  end
+end
+
+desc 'Bump version and release'
+task :bump do
+  sh 'git add .'
+  sh 'git commit -m "synced iso data with RA"'
+  sh 'gem bump -v patch -p -t -r --pretend'
 end
 
 task :default => :spec
