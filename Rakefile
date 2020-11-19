@@ -55,9 +55,10 @@ task :sync_ra => [:iso] do
   str = `git diff iso_15924.txt`
   puts str
   updated = !str.empty?
-  if updated
+  if updated || true
     puts 'iso 15924 file on RA has been updated'
-    Rake::Tasks[:bump].execute
+    sh 'touch `date +"%s"`.yml'
+    Rake::Task[:bump].execute
   else
     puts 'no updates from RA'
   end
@@ -65,9 +66,12 @@ end
 
 desc 'Bump version and release'
 task :bump do
+  sh 'git config user.email "isodata-bot@example.com"'
+  sh 'git config user.name "isodata-bot"'
   sh 'git add .'
-  sh 'git commit -m "synced iso data with RA"'
-  sh 'gem bump -v patch -p -t -r --pretend'
+  sh 'git commit -m "synced iso data with RA"' do |ok, res|
+    sh 'gem bump -v patch -p -t' if ok
+  end
 end
 
 task :default => :spec
