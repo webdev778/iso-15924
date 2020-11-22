@@ -98,7 +98,7 @@ task :bump => [:git_config, :gem_credential] do
   sh 'git add .'
   sh 'git commit -m "synced iso data with RA"' do |ok, res|
     sh 'gem bump -v patch -p -t' do |bumped, res1|
-      sh 'gem release' if bumped
+      Rake::Task['release'].execute if bumped
     end if ok
   end
 end
