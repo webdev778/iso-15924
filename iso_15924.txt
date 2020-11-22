@@ -208,3 +208,4 @@ Zsym;996;Symbols;symboles;;1.1;2007-11-26
 Zxxx;997;Code for unwritten documents;codet pour les documents non écrits;;;2011-06-21
 Zyyy;998;Code for undetermined script;codet pour écriture indéterminée;Common;;2004-05-29
 Zzzz;999;Code for uncoded script;codet pour écriture non codée;Unknown;;2006-10-10
+ZZZZ;999;Code for uncoded script;codet pour écriture non codée;Unknown;;2006-10-10
