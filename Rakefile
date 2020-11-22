@@ -50,15 +50,19 @@ task :iso => [:clean, ISO_15924_FILE] do
   end
 end
 
+desc 'mock RA updates'
+task :mock_up do
+  sh %{echo 'ZZZZ;999;Code for uncoded script;codet pour écriture non codée;Unknown;;2006-10-10' >> iso_15924.txt}
+end
+
 desc 'Check if any updates on RA'
 task :sync_ra => [:init, :iso] do
+  Rake::Task['mock_up'].execute # for test
   str = `git diff iso_15924.txt`
   puts str
   updated = !str.empty?
   if updated
     puts 'iso 15924 file on RA has been updated'
-    # create dummy data for test
-    # sh 'touch `date +"%s"`.yml'
     Rake::Task[:bump].invoke
   else
     puts 'no updates from RA'
