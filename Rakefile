@@ -57,7 +57,7 @@ end
 
 desc 'Check if any updates on RA'
 task :sync_ra => [:init, :iso] do
-  Rake::Task['mock_up'].execute # for test
+  # Rake::Task['mock_up'].execute # for test
   str = `git diff iso_15924.txt`
   puts str
   updated = !str.empty?
