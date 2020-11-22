@@ -71,26 +71,30 @@ end
 
 desc 'Setting up gem credentials'
 task :gem_credential do
-  sh 'set +x'
-  sh 'mkdir -p ~/.gem'
+  if ENV['RACK_ENV'] != 'development'
+    sh 'set +x'
+    sh 'mkdir -p ~/.gem'
 
-  sh %{cat << EOF > ~/.gem/credentials
+    sh %{cat << EOF > ~/.gem/credentials
 ---
 :rubygems_api_key: ${RUBYGEMS_API_KEY}
 EOF}
 
-  sh 'chmod 0600 ~/.gem/credentials'
-  sh 'set -x'
+    sh 'chmod 0600 ~/.gem/credentials'
+    sh 'set -x'
+  end
 end
 
 desc 'Config git email and name'
-task :git do
-  sh 'git config user.email "isodata-bot@example.com"'
-  sh 'git config user.name "isodata-bot"'
+task :git_config do
+  if ENV['RACK_ENV'] != 'development'
+    sh 'git config user.email "isodata-bot@example.com"'
+    sh 'git config user.name "isodata-bot"'
+  end
 end
 
 desc 'Bump version and release'
-task :bump => [:git, :gem_credential] do
+task :bump => [:git_config, :gem_credential] do
   sh 'git add .'
   sh 'git commit -m "synced iso data with RA"' do |ok, res|
     sh 'gem bump -v patch -p -t -r' if ok
