@@ -51,26 +51,53 @@ task :iso => [:clean, ISO_15924_FILE] do
 end
 
 desc 'Check if any updates on RA'
-task :sync_ra => [:iso] do
+task :sync_ra => [:init, :iso] do
   str = `git diff iso_15924.txt`
   puts str
   updated = !str.empty?
-  if updated || true
+  if updated
     puts 'iso 15924 file on RA has been updated'
-    sh 'touch `date +"%s"`.yml'
-    Rake::Task[:bump].execute
+    # create dummy data for test
+    # sh 'touch `date +"%s"`.yml'
+    Rake::Task[:bump].invoke
   else
     puts 'no updates from RA'
   end
 end
 
-desc 'Bump version and release'
-task :bump do
+desc 'Setting up gem credentials'
+task :gem_credential do
+  sh 'set +x'
+  sh 'mkdir -p ~/.gem'
+
+  sh %{cat << EOF > ~/.gem/credentials
+---
+:rubygems_api_key: ${RUBYGEMS_API_KEY}
+EOF}
+
+  sh 'chmod 0600 ~/.gem/credentials'
+  sh 'set -x'
+end
+
+desc 'Config git email and name'
+task :git do
   sh 'git config user.email "isodata-bot@example.com"'
   sh 'git config user.name "isodata-bot"'
+end
+
+desc 'Bump version and release'
+task :bump => [:git, :gem_credential] do
   sh 'git add .'
   sh 'git commit -m "synced iso data with RA"' do |ok, res|
     sh 'gem bump -v patch -p -t -r' if ok
+  end
+end
+
+desc 'Check enviroment variables'
+task :init do
+  if ENV['RUBYGEMS_API_KEY'].nil?
+    puts "'RUBYGEMS_API_KEY' enviroment variable not set"
+    exit(1)
   end
 end
 
